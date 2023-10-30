@@ -1,0 +1,33 @@
+h1{
+  color: #6495ED;
+  text-align: center;
+  background-color: black;
+  font-family: monospace;
+}
+
+p{
+  text-align: justify;
+}
+strong{
+  color:red;
+}
+ul{
+  position:relative;
+  top:10px;  
+}
+ul{
+  nav{
+    
+  }
+  top: 0; right );
+  .caixa{
+    width : 940px;
+    position : relative
+    margin : 0 auto;
+  
+  position:absolute;
+  top:0px;
+}
+  header{
+    padding: 20px;/padding espaçamento interno do elemento 
+  }
